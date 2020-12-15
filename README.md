@@ -1,4 +1,4 @@
-# Introduction_to_Deep_Learning_-_Neural_Networks_with_Keras
+# Introduction to Deep Learning - Neural Networks with Keras
 
 By IBM on Coursera
 
